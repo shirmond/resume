@@ -1,10 +1,10 @@
 {
-  "name": "Steven-Resume",
+  "name": "Shirmond-Resume",
   "version": "0.0.0",
-  "description": "Azure TED Continous Integration Demo",
+  "description": "Resume for Shirmond Conway",
   "main": "app.js",
   "author": {
-    "name": "sedouard",
+    "name": "shirmond",
     "email": ""
   },
   "scripts" : {

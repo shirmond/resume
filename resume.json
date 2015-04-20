@@ -1,148 +1,108 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Software Engineer",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Advocate for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Shirmond Conway",
+    "label": "Programmer",
+    "picture": "",
+    "email": "shirmond.conway@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "http://richardhendricks.com",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
-        "username": "This Resume is built from this Github Repo"
-      },
-      {
         "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "username": "neutralthoughts",
+        "url": ""
       },
       {
-        "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.com/dandymusicnl"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer",
-      "website": "http://microsoft.com",
-      "startDate": "2015-03-16",
-      "summary": "Technical Evangelism and Development - Strategic Engagements",
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Responsible for building reusable solutions with Microsoft partners to drive attention and usage to Microsoft products and technologies."
-      ]
-    },
-    {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
-      "highlights": [
-        "Drove Azure usage by Student and Startup Developers",
-        "Worked with various Y-Combinator startups to bring linux workloads to Azure",
-        "Delivered Technical Presentations at Various conferences such as TC Disrupt SF, NodeConf Oakland, Stanford & Berkeley Hackathons",
-        "Created various technical content centered around open source on Azure such as blog posts and technical projects"
-      ]
-    },
-    {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
-      "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
-      ]
-    },
-    {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
-      "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "TEALS",
+      "organization": "CoderDojo",
       "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
       "highlights": [
-        "Featured in the International New York Times"
+        "Awarded 'Teacher of the Month'"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
     }
   ],
   "awards": [
     {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
     {
-      "name": "C# and .NET",
+      "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "C#"
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     },
     {
-      "name": "Node.js",
-      "level": "Intermediate",
-      "keywords": [
-        "javascript",
-        "express"
-      ]
-    },
-    {
-      "name": "Cloud Services",
+      "name": "Compression",
       "level": "Master",
       "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
-      ]
-    },
-    {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Objective-C"
+        "Mpeg",
+        "MP4",
+        "GIF"
       ]
     }
   ],
@@ -150,6 +110,21 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
