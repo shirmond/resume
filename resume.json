@@ -4,7 +4,7 @@
     "label": "Software Developer",
     "picture": "",
     "email": "shirmond.conway@gmail.com",
-    "phone": "314-560-1900",
+    "phone": "-",
     "website": "http://shirmond.com",
     "summary": "A motivated individual who gets things done.",
     "location": {
@@ -32,7 +32,7 @@
       "company": "Joyce Meyer Ministries",
       "position": "Software Developer",
       "website": "http://joycemeyer.org",
-      "startDate": "2011-06-06",
+      "startDate": "2010-11-29",
       "endDate": "",
       "summary": "Software Developer Level 3 engaging in Technical Lead responsibilities.",
       "highlights": [
@@ -41,7 +41,19 @@
         "Develop ASP.NET MVC 3 Program Manager application that allowed data entry of Broadcast and Marketing users for the Enjoying Everyday Life TV program",
 		"Implement the PayPal Payflow Pro API during migration of Canadian payment provider to utilize tokenization for PCI Compliance"
       ]
-    }
+    },
+	{
+	  "company": "US Fidelis",
+	  "position": "Software Developer",
+	  "startDate": "2007-01-07",
+	  "endDate": "2010-11-24",
+	  "summary": "Software Developer Level 1",
+	  "highlights": [
+	    "Implemented the ASP.Net MVC/LINQ to SQL/WCF “Online Quoting” solution to allow customers to purchase Vehicle Service Contracts online",
+		"Created SQL Server Views, Tables, and Stored Procedures to import Customer, Quoting, and Payment information from the “Online Quoting” solution to the “AGC” application",
+		"Created Microsoft SSIS packages that formatted and exported flat files for transferring data to various Administrators, Financial stakeholders, and Marketing Agencies"
+	  ]
+	}
   ],
   "volunteer": [],
   "education": [
@@ -59,8 +71,8 @@
 	  ]
     }
   ],
-  "awards": [],
-  "publications": [],
+  "awards": [{}],
+  "publications": [{}],
   "skills": [
     {
       "name": "C# .NET",
@@ -95,7 +107,6 @@
         "Moq",
         "Foundation",
         "Bootstrap"
-        
        ]
     }
   ],
@@ -105,7 +116,7 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [],
+  "interests": [{}],
   "references": [
     {
       "name": "Nicholas Cloud",
