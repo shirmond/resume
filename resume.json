@@ -5,7 +5,7 @@
     "picture": "",
     "email": "shirmond.conway@gmail.com",
     "phone": "-",
-    "website": "http://shirmond.com",
+    "website": "shirmond.com",
     "summary": "A motivated individual who gets things done.",
     "location": {
       "address": "-",
@@ -33,7 +33,6 @@
       "position": "Software Developer",
       "website": "http://joycemeyer.org",
       "startDate": "2010-11-29",
-      "endDate": "Present",
       "summary": "Software Developer Level 3 engaging in Technical Lead responsibilities.",
       "highlights": [
         "Implement Web API Azure Cloud Service layer using OData as part of a Scrum team",
