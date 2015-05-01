@@ -4,12 +4,9 @@
     "label": "Software Developer",
     "picture": "",
     "email": "shirmond.conway@gmail.com",
-    "phone": "-",
     "website": "shirmond.com",
-    "summary": "A motivated individual who gets things done.",
+    "summary": "A Senior Software Developer with over eight years experience that passionately enjoys learning new technologies and methodologies.  My strengths include experience with C# .NET, ASP.NET MVC, Web API, WCF, Azure, Javascript, and CSS.  I thrive in a team environment and have effective communication capabilities with team members, end users, and stakeholders.",
     "location": {
-      "address": "-",
-      "postalCode": "-",
       "city": "St. Louis",
       "countryCode": "US",
       "region": "MO"
@@ -24,6 +21,10 @@
         "network": "github",
         "username": "shirmond",
         "url": "https://github.com/shirmond"
+      },
+      {
+        "network": "google+",
+        "url": "google.com/+ShirmondConway"
       }
     ]
   },
@@ -54,43 +55,39 @@
 	  ]
 	}
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Hickey College",
-      "area": "Information Technology",
-      "studyType": "Associate",
+      "area": "Applications and Computer Programming",
+      "studyType": "Associate's",
       "startDate": "2002-07-01",
       "endDate": "2003-12-30",
-      "gpa": "3.9",
-      "courses": [
-		"Visual Basic 6.0",
-		"Microsoft Access",
-		"C++"
-	  ]
+      "gpa": "3.9"
     }
   ],
-  "awards": [{}],
-  "publications": [{}],
   "skills": [
     {
-      "name": "C# .NET",
+      "name": ".NET",
       "level": "Experienced",
       "keywords": [
         "WCF",
         "ASP.NET MVC",
         "Entity Framework",
-        "LINQ"
+        ".NET Base Class Libraries"
       ]
     },
     {
       "name": "Software Development",
       "level": "Experienced",
       "keywords": [
-        "Agile (Scrum)",
-        "OOP",
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Object Oriented Programming",
         "TDD",
-        "SOLID Principles"
+        "SOLID Principles",
+        "Pair Programming",
+        "Peer Review"
       ]
     },
     {
@@ -98,13 +95,14 @@
       "level": "Experienced",
       "keywords": [
         "Visual Studio",
-        "TFS/Visual Studio Online",
+        "TFS 2008-2013/Visual Studio Online",
         "Git",
         "Windows Azure",
         "IIS",
         "MSMQ",
+        "NuGet",
         "Moq",
-        "Foundation",
+        "ZURB Foundation",
         "Bootstrap"
        ]
     }
@@ -115,19 +113,18 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [{}],
   "references": [
     {
       "name": "Nicholas Cloud",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "reference": "Contact available on request."
     },
 	{
       "name": "Zack Austin",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "reference": "Contact available on request."
     },
 	{
       "name": "Arseni Jidkov",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "reference": "Contact available on request."
     }
   ]
 }
