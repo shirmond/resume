@@ -105,7 +105,8 @@
         "MSMQ",
         "Moq",
         "Foundation",
-        "Bootstrap"
+        "Bootstrap",
+		"Node.js Ninja"
        ]
     }
   ],
