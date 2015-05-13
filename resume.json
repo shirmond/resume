@@ -36,9 +36,9 @@
       "startDate": "2010-11-29",
       "summary": "Software Developer Level 3 engaging in Technical Lead responsibilities.",
       "highlights": [
-        "Implement Web API Azure Cloud Service layer using OData as part of a Scrum team",
+        "Implement Azure Cloud Service layer using Web API with OData as part of a Scrum team",
         "Create Remote Catpure to ERP Integration solution using WCF Services",
-        "Develop ASP.NET MVC 3 Program Manager application that allowed data entry of Broadcast and Marketing users for the Enjoying Everyday Life TV program",
+        "Develop ASP.NET MVC Program Manager application that allowed data entry of Broadcast and Marketing users for the Enjoying Everyday Life TV program",
 		"Implement the PayPal Payflow Pro API during migration of Canadian payment provider to utilize tokenization for PCI Compliance"
       ]
     },
