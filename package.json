@@ -4,11 +4,11 @@
   "description": "Resume for Shirmond Conway",
   "main": "app.js",
   "author": {
-    "name": "shirmond",
+    "name": "Shirmond Conway",
     "email": ""
   },
   "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html"
+	"test": "node ./node_modules/resume-cli/index.js export index -f html --theme elegant"
   },
   "dependencies": {
     "resume-cli": "^0.3.10"
